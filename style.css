@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, Helvetica, sans-serif; 
+    color: rgb(255, 255, 255); 
+    
+    text-align: center;
+}
+
+h1 {
+    box-shadow: 0px 0px 9px 3px rgb(41 41 41 / 25%);
+}
+
+input {
+    margin-right: 15px;
+    width: 90px;
+    font-size: 15px;
+}
+
+button {
+    color: black;
+    background-color: white;
+    font-size: 16px;
+    margin-right: 10px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.number {
+    width: 40px;
+}
+
+.atv {
+    width: 150px;
+}
+
+#container {
+    background-image: linear-gradient(to bottom right, rgb(74 130 181),#46af7f) ;
+    width: fit-content;
+    margin: auto;
+    padding: 10px 40px 20px 40px;
+    border-radius: 10px;
+}
+
+#resultado {
+    color: black;
+}
+
+#descricao {
+    width: 450px;
+    font-size: 14px;
+    
+}
